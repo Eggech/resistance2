@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "resistance", "resistance\resistance.csproj", "{5D7C0CB4-E0B6-4D0A-9BE0-4EFFB6133E72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib4Calc", "Lib4Calc\Lib4Calc.csproj", "{DE6E2E4B-F05E-4BAD-8837-8BCF0E7F96F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D7C0CB4-E0B6-4D0A-9BE0-4EFFB6133E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7C0CB4-E0B6-4D0A-9BE0-4EFFB6133E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7C0CB4-E0B6-4D0A-9BE0-4EFFB6133E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7C0CB4-E0B6-4D0A-9BE0-4EFFB6133E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE6E2E4B-F05E-4BAD-8837-8BCF0E7F96F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6E2E4B-F05E-4BAD-8837-8BCF0E7F96F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6E2E4B-F05E-4BAD-8837-8BCF0E7F96F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6E2E4B-F05E-4BAD-8837-8BCF0E7F96F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {408813D6-AB13-4F36-9A81-4ECCBA51EA8A}
+	EndGlobalSection
+EndGlobal
